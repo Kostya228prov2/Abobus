@@ -1,0 +1,34 @@
+{
+    "name": "BaseInputActions",
+    "maps": [
+        {
+            "name": "BaseInputMap",
+            "id": "bab85aed-49f2-4e30-9cdd-ae7f7ab63011",
+            "actions": [
+                {
+                    "name": "Space",
+                    "type": "Button",
+                    "id": "df5a6dc8-3687-4a47-9e58-eef70daa6d01",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2c01f49a-3aa1-4541-b597-06f3add0cbbd",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
